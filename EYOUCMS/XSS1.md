@@ -21,3 +21,4 @@ typename=%E6%96%B0%E9%97%BB%E5%8A%A8%E6%80%81&dirname=xinwendongtai&current_chan
 
 Then when user edit it again, a xss will be triggered.
 
+
