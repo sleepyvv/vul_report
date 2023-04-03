@@ -21,4 +21,4 @@ typename=%E6%96%B0%E9%97%BB%E5%8A%A8%E6%80%81&dirname=xinwendongtai&current_chan
 
 Then when user edit it again, a xss will be triggered.
 
-
+![image](https://user-images.githubusercontent.com/55875284/229510708-2123b9db-9463-4ea5-8866-b80c98604e78.png)
