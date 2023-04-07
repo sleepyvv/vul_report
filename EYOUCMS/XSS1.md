@@ -1,4 +1,4 @@
-eyoucms up to 1.6.2 'litpic_loca' stored xss vulnerability
+eyoucms up to 1.6.2 'litpic_loca' reflected xss vulnerability
 POC:
 
 ```
