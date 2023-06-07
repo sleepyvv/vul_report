@@ -1,6 +1,7 @@
 ## C-DATA Web Management System Arbitrary User Create
 
 C-DATA Web Management System has a broken access control, which will result in arbitrary user create.
+
 fofa: title=="Wi-Fi Web管理"
 
 POC below：
